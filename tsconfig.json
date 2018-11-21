@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@codeSolutions/ngx-code-core": [
+        "@codeSolutions/ngx-code-core"
+      ],
+      "@codeSolutions/ngx-code-core/*": [
+        "@codeSolutions/ngx-code-core/*"
+      ]
+    }
   }
 }
